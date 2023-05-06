@@ -1,7 +1,12 @@
 const fs = require("fs");
 const inquirer = require('inquirer');
 
-
+function validateAnswer(value) {
+    if (value != "") {
+        return  true;
+      } else {
+        return  "Please answer the question to move forward";
+    }}
 
     inquirer.prompt([
         {
