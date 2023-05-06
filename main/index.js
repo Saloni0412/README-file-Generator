@@ -108,7 +108,16 @@ const inquirer = require('inquirer');
         createNewFile(template);
       });
       
-
+      function createNewFile(data) {
+        const trimmedData = data.split('\n').map(line => line.trim()).join('\n');
+        fs.writeFile(`./output/test.md`, trimmedData, function (err) {
+            if (err) {
+                console.log(err);
+            } else {
+                console.log("README is generated");
+            }
+        }) 
+    }
     
       
   
