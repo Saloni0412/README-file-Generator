@@ -104,7 +104,7 @@ function validateAnswer(value) {
       
       ## License
       
-      ![${license} license - click on the license to get more infor about it](https://opensource.org/licenses/${license})
+      [${license} license - click on the license to get more information about it](https://opensource.org/licenses/${license})
 
       ## Questions
       
