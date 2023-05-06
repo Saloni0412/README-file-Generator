@@ -24,6 +24,7 @@ This is a project portraying the skills to generate a quality professional READM
 ## Credits
 
 [W3Schools](https://www.w3schools.com/) - to clear some concepts for node JS
+
 [Sheilds.io](https://shields.io/category/license) - Used this website to generate the badges for licenses
 
 ## License
