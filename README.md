@@ -19,7 +19,7 @@ To install this project you will need to download NODE JS, JSON packages and inq
 
 ## Usage
 
-This is a project portraying the skills to generate a quality professional README file for my future upcoming projects. One just need to enter the details for each section and you will have your README in your fingertips. Once you have installed all the required packges to run this readme genetor, you will need to answer the prompted questions and Readme file will be generated in the output folder. Link for Video demonstration for above explanation is given below. 
+This is a project portraying the skills to generate a quality professional README file for my future upcoming projects. One just need to enter the details for each section and you will have your README in your fingertips. Once you have installed all the required packges to run this readme genetor, you will need to answer the prompted questions and Readme file will be generated in the output folder. Link for Video demonstration on how this application works is mentioned below. 
 
 [Link to the video](https://drive.google.com/file/d/1-lVmPd7jU8efl9xYmNUoXg228LVJPC51/view)
 
